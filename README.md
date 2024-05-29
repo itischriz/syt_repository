@@ -11,3 +11,6 @@ git status
 git commit -m "Readme bearbeitet commit and push in terminal"
 git push
 ````
+
+# Fetch and pull
+Wenn Änderungen am Remote Repo durchgefühlrt wurden, können wir diese mit `git fetch` abfragen und mit `git pull` laden.
