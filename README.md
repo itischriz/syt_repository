@@ -14,3 +14,6 @@ git push
 
 # Fetch and pull
 Wenn Änderungen am Remote Repo durchgefühlrt wurden, können wir diese mit `git fetch` abfragen und mit `git pull` laden.
+
+# git in IDE
+VS Code oder Intelij haben ein GIT Tool eingebaut
