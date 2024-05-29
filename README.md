@@ -1,2 +1,2 @@
-# syt_repository
+# SYT repository
 Test repository for SYT
