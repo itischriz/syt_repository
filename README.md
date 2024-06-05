@@ -17,3 +17,6 @@ Wenn Änderungen am Remote Repo durchgefühlrt wurden, können wir diese mit `gi
 
 # git in IDE
 VS Code oder Intelij haben ein GIT Tool eingebaut
+
+# info
+Wilkommen liebe Leude!!!!!!!!!
