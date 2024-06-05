@@ -21,7 +21,7 @@ VS Code oder Intelij haben ein GIT Tool eingebaut
 # info
 Wilkommen liebe Leude!!!!!!!!!
 
-# halle
+# Hallo
 Ich bin auch da!!!
 
 ## Hello Leudde :)
