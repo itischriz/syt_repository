@@ -26,3 +26,6 @@ Ich bin auch da!!!
 
 ## Hello Leudde :
 `System.out.println("Euer lieblings ChriZ ist da.");`
+
+# Java forever
+Java ist größer alles
