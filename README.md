@@ -34,4 +34,4 @@ Java ist größer alles
 <<<<<<< HEAD
 Es stellt alles in den Schatte, es ist größer als alle Schlangen und C's dieser Welt
 =======
->>>>>>> 78740c4f7a658aaeebad8b186c3d237b825b90eb
+
