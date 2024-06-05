@@ -23,3 +23,6 @@ Wilkommen liebe Leude!!!!!!!!!
 
 # halle
 Ich bin auch da!!!
+
+## Hello Leudde :)
+`print("Euer lieblings ChriZ ist da.")`
