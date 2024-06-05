@@ -24,5 +24,5 @@ Wilkommen liebe Leude!!!!!!!!!
 # Hallo
 Ich bin auch da!!!
 
-## Hello Leudde :)
-`print("Euer lieblings ChriZ ist da.")`
+## Hello Leudde :
+print("Euer lieblings ChriZ ist da.")
