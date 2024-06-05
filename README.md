@@ -31,18 +31,16 @@ System.out.println("Euer lieblings ChriZ ist da.");
 
 # Java forever
 Java ist größer alles
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Es stellt alles in den Schatte, es ist größer als alle Schlangen und C's dieser Welt
 
 Es stellt alles in den Schatten, es ist größer als alle Schlangen und C's dieser Welt.
 Wer was anderes sagt, soll gepeinigt und von dieser Welt verbannt waren.
-<<<<<<< HEAD
+
 # HTML besser als alles, BESTE PROGRAMMIERSPRACHE!!!
 # Servus
 wazzz uuupp
 
-<<<<<<< HEAD
 
-=======
-# Oida
+# Cancelt Norbert
+der kleine Motorrad schnorrer
