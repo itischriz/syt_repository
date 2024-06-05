@@ -29,3 +29,4 @@ Ich bin auch da!!!
 
 # Java forever
 Java ist größer alles
+Es stellt alles in den Schatte, es ist größer als alle Schlangen und C's dieser Welt
