@@ -10,7 +10,7 @@ currently being supported with security updates.
 | 5.1.x   | :white_check_mark: aber ned für dich|
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| < 4.0   | :x:hahahahahahha|
 
 ## Reporting a Vulnerability
 
