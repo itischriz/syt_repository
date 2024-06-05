@@ -25,4 +25,4 @@ Wilkommen liebe Leude!!!!!!!!!
 Ich bin auch da!!!
 
 ## Hello Leudde :
-print("Euer lieblings ChriZ ist da.")
+`System.out.println("Euer lieblings ChriZ ist da.");`
